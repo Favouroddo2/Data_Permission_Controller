@@ -277,3 +277,5 @@ For questions, issues, or contributions, please refer to the project documentati
 ---
 
 **Note**: This smart contract handles sensitive data access permissions. Always test thoroughly on testnets before deploying to mainnet, and consider security audits for production use.
+
+**Note**: This smart contract handles sensitive data access permissions. Always test thoroughly on testnets before deploying to mainnet, and consider security audits for production use.
